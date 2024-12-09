@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh; /* Full viewport height */
+    margin: 0;
+  }
+  
+  main {
+    flex: 1; /* Takes up available space */
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
